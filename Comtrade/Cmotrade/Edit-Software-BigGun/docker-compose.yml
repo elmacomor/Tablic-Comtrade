@@ -14,7 +14,7 @@ services:
     container_name: TablicDOC
     image: postgres
     environment:
-      POSTGRES_PASSWORD: elma
+      POSTGRES_PASSWORD: 
     ports:
       - "5432:5435"
 
