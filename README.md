@@ -1,5 +1,3 @@
-# Tablic-Comtrade
-This project was done as part of Edit, Comtrade summer school. It is a backend code done in golang for popular card game named Tablic. You can find rules for the game at the following link: http://www.igrajkarte.com/blog/post/tablic-pravila/
 # Edit-Software-BigGun
 
 # Project:Tablic
